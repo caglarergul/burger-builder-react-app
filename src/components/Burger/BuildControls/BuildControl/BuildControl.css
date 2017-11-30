@@ -8,9 +8,10 @@
 .BuildControl button {
     display: block;
     font: inherit;
-    padding: 0 5px;
+    padding: 5px;
+    margin: 0 5px;
     width: 80px;
-    border:1px solid #AA6817;
+    border: 1px solid #AA6817;
     cursor: pointer;
     outline: none;
 }
@@ -35,7 +36,7 @@
     width: 80px;
 }
 
-.BuildControl .Less {
+.BuildControl .Less {  
     background-color: #D39952;
     color: white;
 }
@@ -45,7 +46,7 @@
     color: white;
 }
 
-.BuildControl .Less:hover, .BuildControl .Less:active {
+.BuildControl .Less:hover, .BuildControl .Less:active {  
     background-color: #DAA972;
     color: white;
 }
