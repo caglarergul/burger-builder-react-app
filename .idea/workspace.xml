@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9332029f-da0c-4b24-ab47-a7e662a3f352" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/burger-builder-react-app.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Caglar_Ergul.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="9332029f-da0c-4b24-ab47-a7e662a3f352" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -112,12 +105,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512049959512</updated>
       <workItem from="1512049961868" duration="434000" />
-      <workItem from="1512050438827" duration="775000" />
+      <workItem from="1512050438827" duration="798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1209000" />
+    <option name="totallyTimeSpent" value="1232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
