@@ -4,7 +4,7 @@
 
 This is a basic Burger Builder Application with ReactJS.
 It includes React's component architecture and layout standard. 
-How can we use it dynamically and mobile responsive.
+This is how we can use it dynamically and mobile responsive approach.
 
 I started to code it with <pre>create-react-app</pre> command.
 
