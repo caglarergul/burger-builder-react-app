@@ -1,6 +1,6 @@
-#Burger Builder Application w/ ReactJS
+## Burger Builder Application w/ ReactJS
 
-## App Description
+### App Description
 
 This is a basic Burger Builder Application with ReactJS.
 It includes React's component architecture and layout standard. 
