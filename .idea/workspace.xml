@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9332029f-da0c-4b24-ab47-a7e662a3f352" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.css" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.css" />
+      <change beforePath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css" afterPath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css" />
       <change beforePath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" afterPath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,14 +21,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Checkout.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Checkout.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/containers/Checkout/Checkout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+            <state relative-caret-position="690">
+              <caret line="41" column="92" lean-forward="false" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactData.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactData.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Burger.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Burger/Burger.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,8 +114,8 @@
       <file leaf-file-name="CheckoutSummary.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -127,7 +163,6 @@
         <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
         <option value="$PROJECT_DIR$/config/webpack.config.prod.js" />
         <option value="$PROJECT_DIR$/src/hoc/Auxiliary.js" />
-        <option value="$PROJECT_DIR$/src/components/Burger/Burger.css" />
         <option value="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" />
         <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css" />
         <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.css" />
@@ -159,7 +194,6 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.js" />
         <option value="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" />
-        <option value="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css" />
         <option value="$PROJECT_DIR$/src/containers/checkout/Checkout.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
@@ -167,6 +201,10 @@
         <option value="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.js" />
         <option value="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" />
         <option value="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" />
+        <option value="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/Burger.css" />
+        <option value="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css" />
+        <option value="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.css" />
       </list>
     </option>
   </component>
@@ -247,6 +285,21 @@
               <item name="burger-builder-react-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="burger-builder-react-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder-react-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="Backdrop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder-react-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="containers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -262,6 +315,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="containers" type="462c0819:PsiDirectoryNode" />
               <item name="Checkout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder-react-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="Checkout" type="462c0819:PsiDirectoryNode" />
+              <item name="ContactData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,12 +460,12 @@
       <workItem from="1512463338051" duration="839000" />
       <workItem from="1512975192995" duration="10165000" />
       <workItem from="1513075131610" duration="23000" />
-      <workItem from="1518176168070" duration="4858000" />
+      <workItem from="1518176168070" duration="6339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43134000" />
+    <option name="totallyTimeSpent" value="44615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="22" width="1936" height="1066" extended-state="6" />
@@ -441,20 +502,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/UI/Modal/Modal.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -486,13 +533,6 @@
     <entry file="file://$PROJECT_DIR$/../containers/BurgerBuilder/BurgerBuilder.js" />
     <entry file="file://$PROJECT_DIR$/../components/UI/Button/Button.js" />
     <entry file="file://$PROJECT_DIR$/../components/UI/Modal/Modal.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/Burger/Burger.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../components/Burger/OrderSummary/OrderSummary.js" />
     <entry file="file://$PROJECT_DIR$/src/hoc/Layout/Layout.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -719,14 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -777,11 +809,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Checkout/Checkout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        <state relative-caret-position="690">
+          <caret line="41" column="92" lean-forward="false" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/Burger.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
