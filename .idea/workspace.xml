@@ -1,71 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="325cdda0-474f-48f3-ac17-bbdb4d0de968" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Order/Order.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Order/Order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Orders/Orders.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/env.js" afterPath="$PROJECT_DIR$/config/env.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/jest/cssTransform.js" afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/jest/fileTransform.js" afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/paths.js" afterPath="$PROJECT_DIR$/config/paths.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/polyfills.js" afterPath="$PROJECT_DIR$/config/polyfills.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/webpack.config.dev.js" afterPath="$PROJECT_DIR$/config/webpack.config.dev.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/webpack.config.prod.js" afterPath="$PROJECT_DIR$/config/webpack.config.prod.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Loading.css" afterPath="$PROJECT_DIR$/public/Loading.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/manifest.json" afterPath="$PROJECT_DIR$/public/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/build.js" afterPath="$PROJECT_DIR$/scripts/build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/start.js" afterPath="$PROJECT_DIR$/scripts/start.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/test.js" afterPath="$PROJECT_DIR$/scripts/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.test.js" afterPath="$PROJECT_DIR$/src/App.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/axios-orders.js" afterPath="$PROJECT_DIR$/src/axios-orders.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.css" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/Burger.css" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.css" afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" afterPath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Logo/Logo.css" afterPath="$PROJECT_DIR$/src/components/Logo/Logo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Logo/Logo.js" afterPath="$PROJECT_DIR$/src/components/Logo/Logo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.css" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.css" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.css" afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js" afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.css" afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.js" afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.css" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css" afterPath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.js" afterPath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css" afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.css" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Modal/Modal.css" afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.js" afterPath="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" afterPath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.css" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hoc/Auxiliary.js" afterPath="$PROJECT_DIR$/src/hoc/Auxiliary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.css" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" afterPath="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/registerServiceWorker.js" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" />
-    </list>
+    <list default="true" id="325cdda0-474f-48f3-ac17-bbdb4d0de968" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -78,7 +14,20 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="withErrorHandler.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -179,6 +128,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="hoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="withErrorHandler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="burger-builder-react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="burger-builder-react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="burger-builder-react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="burger-builder-react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -260,6 +253,7 @@
     <property name="node.js.path.for.package.standard" value="/usr/local/bin/node" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -345,17 +339,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522771574038</updated>
-      <workItem from="1522771576138" duration="190000" />
+      <workItem from="1522771576138" duration="582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190000" />
+    <option name="totallyTimeSpent" value="582000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1026" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1026" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1342812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1342812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -363,7 +357,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27087796" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18843684" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -401,6 +395,16 @@
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
