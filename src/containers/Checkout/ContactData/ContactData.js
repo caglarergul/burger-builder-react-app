@@ -3,17 +3,61 @@ import Button from '../../../components/UI/Button/Button';
 import classes from './ContactData.css';
 import axios from '../../../axios-orders';
 import Spinner from '../../../components/UI/Spinner/Spinner';
-
+import Input from '../../../components/UI/Input/Input';
 class ContactData extends Component {
 
     state = {
-        name: '',
-        email: '',
-        address: {
-            street: '',
-            postalCode: ''
-        },
-        loading: false
+        orderForm: {
+              name: {
+                elementType: 'input',
+                elementConfig: {
+                  type: 'text',
+                  placeholder: 'Your Name'
+                },
+                value: ''
+              },
+              street: {
+                elementType: 'input',
+                elementConfig: {
+                  type: 'text',
+                  placeholder: 'Street'
+                },
+                value: ''
+              },
+              zipCode: {
+                elementType: 'input',
+                elementConfig: {
+                  type: 'text',
+                  placeholder: 'Zip Code'
+                },
+                value: ''
+              },
+              country: {
+                elementType: 'input',
+                elementConfig: {
+                  type: 'text',
+                  placeholder: 'Country'
+                },
+                value: ''
+              },
+              email: {
+                elementType: 'email',
+                elementConfig: {
+                  type: 'text',
+                  options: [{value: 'fastest', displayValue: 'Fastest'},{value: 'cheapest', displayValue: 'Cheapest'}]
+                },
+                value: ''
+              },
+              deliveryMethod: {
+                elementType: 'select',
+                elementConfig: {
+                  type: 'text',
+                  placeholder: 'Delivery Method'
+                },
+                value: ''
+              },
+              loading: false
+            }
     };
 
     orderHandler = (event) => {
@@ -47,10 +91,10 @@ class ContactData extends Component {
     render() {
         let form  = (
             <form>
-                <input type="text" name="name" placeholder="Your name"/>
-                <input type="email" name="email" placeholder="Your email"/>
-                <input type="text" name="street" placeholder="Street"/>
-                <input type="text" name="postal" placeholder="Postal code"/>
+                <Input elementType="..." elementConfig="" value="..."/>
+                <Input inputtype="input" placeholder="Your email"/>
+                <Input inputtype="input" placeholder="Street"/>
+                <Input inputtype="input" placeholder="Postal code"/>
                 <br/>
                 <Button btnType="Success" clicked={this.orderHandler}>ORDER</Button>
             </form>
