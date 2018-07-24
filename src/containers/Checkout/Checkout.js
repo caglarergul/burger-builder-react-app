@@ -54,7 +54,7 @@ class Checkout extends Component {
                 </div>
             );
         }
-        return {summary};
+        return summary;
 
     }
 }
