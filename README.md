@@ -10,6 +10,8 @@ I started to code it with <pre>create-react-app</pre> command.
 
 But you can use <b>npm</b> or <b>yarn</b> to install dependencies. 
 
+Working URL: <a>https://react-my-burger-ce4af.firebaseapp.com</a>
+
 ### What I used?
 
 - HTML5
@@ -17,6 +19,9 @@ But you can use <b>npm</b> or <b>yarn</b> to install dependencies.
 - React - Jsx pages
 - Webpack
 - Pure JavaScript
+- Firebase DB
+- Firebase Hosting & Login
+- Redux
 
 ## How Can I Start?
 
